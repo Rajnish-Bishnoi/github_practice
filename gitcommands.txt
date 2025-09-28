@@ -1,0 +1,5 @@
+Git init- for initilizing git in folder
+git status - for checking status of the file
+git add <filename> - for staging file
+git commit -m "msz" - it push file to tracking mode
+git restro <filename> - it restore the file if we remove main file
