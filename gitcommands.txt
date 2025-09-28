@@ -1,5 +1,14 @@
+git config --global user.name "name"
+git config --global user.email "email"
 Git init- for initilizing git in folder
 git status - for checking status of the file
 git add <filename> - for staging file
 git commit -m "msz" - it push file to tracking mode
 git restro <filename> - it restore the file if we remove main file
+git log - checking the record
+git remote add origin - for setting github origin
+git remote set-url origin - new path - for updating origin path
+git push origin master/main
+git pull origin master/main
+git brnach
+git clone - for coping code to github to local
